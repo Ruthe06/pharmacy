@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(o7.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.the {
+    margin-left: 10px;
+}
+
+.t img {
+    width: 100px;
+    margin-left: 10px;
+}
+
+nav {
+    margin-bottom: 20px;
+    background-color: #ccffff;
+}
+
+.y img {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    background-color: #c0c0c0;
+}
+
+.pc img {
+    max-width: 100%;
+    background-color: #fff;
+    padding: 1em;
+    box-shadow: 0 5px 5px #e1e1e1;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 1.0s ease-in-out;
+}
+
+.pc button {
+    color: #003300;
+    background-color: #ffff99;
+}
+
